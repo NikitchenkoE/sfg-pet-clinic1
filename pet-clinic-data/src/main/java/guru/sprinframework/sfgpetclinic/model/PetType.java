@@ -1,6 +1,6 @@
 package guru.sprinframework.sfgpetclinic.model;
 
-public class PetType { //add type of pat
+public class PetType {
     private String name;
 
     public String getName() {
