@@ -1,6 +1,6 @@
 package guru.sprinframework.sfgpetclinic.model;
 
-public class Person {
+public class Person {//adding person
     private String firstName;
     private String lastName;
 
