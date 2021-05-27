@@ -21,14 +21,7 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-    <dependencies>
 
-
-
-
-
-
-    </dependencies>
 
     <build>
         <pluginManagement>
@@ -37,7 +30,19 @@
                     <groupId>org.springframework.boot</groupId>
                     <artifactId>spring-boot-maven-plugin</artifactId>
                 </plugin>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-release-plugin</artifactId>
+                   <configuration>
+                       <goals>install</goals>
+                   </configuration>
+
+                </plugin>
             </plugins></pluginManagement>
     </build>
+
+<scm>
+    <developerConnection>scm:git:git@github.com:NikitchenkoE/sfg-pet-clinic1.git</developerConnection>
+</scm>
 
 </project>
