@@ -1,5 +1,14 @@
+guru\sprinframework\sfgpetclinic\services\map\PetSrviceMap.class
+guru\sprinframework\sfgpetclinic\services\PetService.class
+guru\sprinframework\sfgpetclinic\services\CrudService.class
+guru\sprinframework\sfgpetclinic\services\OwnerService.class
+guru\sprinframework\sfgpetclinic\services\map\OwnerServiceMap.class
 guru\sprinframework\sfgpetclinic\model\PetType.class
 guru\sprinframework\sfgpetclinic\model\Pet.class
-guru\sprinframework\sfgpetclinic\model\Person.class
-guru\sprinframework\sfgpetclinic\model\Owner.class
 guru\sprinframework\sfgpetclinic\model\Vet.class
+guru\sprinframework\sfgpetclinic\services\VetService.class
+guru\sprinframework\sfgpetclinic\services\map\AbstractMapService.class
+guru\sprinframework\sfgpetclinic\services\map\VetServiceMap.class
+guru\sprinframework\sfgpetclinic\model\Person.class
+guru\sprinframework\sfgpetclinic\model\BaseEntity.class
+guru\sprinframework\sfgpetclinic\model\Owner.class
